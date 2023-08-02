@@ -9,7 +9,7 @@
     justify-content: space-between;
     background: #1F2937;
     color: #E5E7EB;
-    padding: 12px 70px;;
+    padding: 30px 300px;
 }
 
 .logo{
@@ -38,7 +38,7 @@ li,a {
 .main {
     display: flex;
     background: #1F2937;
-    padding: 40px 70px;
+    padding: 30px 300px;
     justify-content: space-between;;
 }
 
@@ -58,6 +58,10 @@ h3{
     margin: 25px;
 }
 
+#title {
+    margin-top: 12px;
+}
+
 p {
     color: #E5E7EB;
     font-size: 16px;
@@ -69,7 +73,7 @@ p {
     color: white;
     padding: 4px 20px;
     border-radius: 7px;
-    margin-top: 8px;
+    margin-top: 12px;
 }
 
 .title {
